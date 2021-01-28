@@ -39,7 +39,7 @@
   "devDependencies": {
     "@types/jest": "*",
     "@types/node": "*",
-    "electron": "^6.0.2",
+    "electron": "^9.4.0",
     "electron-builder": "^21.2.0",
     "foreman": "^3.0.1",
     "path": "^0.12.7",
